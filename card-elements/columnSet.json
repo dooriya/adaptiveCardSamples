@@ -6,7 +6,7 @@
       {
           "type": "TextBlock",
           "text": "New Event Occurred!",
-          "size": "Large",
+          "size": "large",
           "weight": "Bolder",
           "wrap": true
       },

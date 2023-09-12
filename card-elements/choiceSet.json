@@ -6,7 +6,7 @@
     {
       "type": "Input.ChoiceSet",
       "id": "myColor",
-      "style": "compact",
+      "style": "filtered",
       "label": "What color do you want? (isMultiSelect:false, style:compact)",
       "isMultiSelect": false,
       "value": "1",
